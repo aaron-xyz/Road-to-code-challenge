@@ -8,7 +8,7 @@ Lista completa de Desafíos.
 
 
 **Semana 2**
-- [x] Reto de los cuadros deslizantes.
+- [x] Reto de los cuadros deslizantes.*
 
 
 **Semana 3**
@@ -17,7 +17,7 @@ Lista completa de Desafíos.
 
 **Semana 4**
 - [x] Candado alienigena.*
-- [ ] Retos en Python.
+- [x] Retos en Python.
 
 **Semana 5**
 - [ ] Retos en Python - Parte II.
